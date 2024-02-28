@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   html {
+      font-family: 'Poppins', sans-serif;
+   }
+}
+
+.app-container {
+   max-width: 1272px;
+   margin: 0 auto;
+   padding: 0 1rem;
+   width: 100%;
+}
+
+.backface-visible {
+   backface-visibility: visible;
+}
+
+.backface-invisible {
+   backface-visibility: hidden;
+}
