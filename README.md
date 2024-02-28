@@ -1,5 +1,7 @@
 Form tương tự quizlet
-![image](https://github.com/hi02102002/test/assets/84460646/5c7227a3-8d1f-4e52-86b6-bbc160d4077f)
+
+![screencapture-localhost-5173-2024-02-28-15_02_59](https://github.com/hi02102002/test/assets/84460646/867bedd9-bcd5-4566-ae88-ce91acbee03d)
+
 Figma
-![screencapture-localhost-5173-2024-02-28-14_55_34](https://github.com/hi02102002/test/assets/84460646/6fdf8d9e-ce42-457b-b567-397f068d3493)
-a
+
+![screencapture-localhost-5173-2024-02-28-14_55_34](https://github.com/hi02102002/test/assets/84460646/bc57886b-f80d-4f1e-ad42-af37347b9dd9)
